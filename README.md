@@ -14,12 +14,12 @@ Start address of array 12, element size = 4 bytes(because int is a primitive typ
 In object's case, such as String, only the reference will be stored in memory, which has the same size always. 
 
 Address od array[0] = 12
-Address od array[1] = 12 + (1 * 4) = 16
-Address od array[2] = 12 + (2 * 4) = 20
-Address od array[3] = 12 + (3 * 4) = 24
-Address od array[4] = 12 + (4 * 4) = 28
-Address od array[5] = 12 + (5 * 4) = 32
-Address od array[6] = 12 + (6 * 4) = 36
+Address od array[1] = 12 + (1 * 4) = 16  
+Address od array[2] = 12 + (2 * 4) = 20  
+Address od array[3] = 12 + (3 * 4) = 24  
+Address od array[4] = 12 + (4 * 4) = 28  
+Address od array[5] = 12 + (5 * 4) = 32  
+Address od array[6] = 12 + (6 * 4) = 36  
  
  
 
