@@ -15,6 +15,17 @@ public class Main {
             System.out.println(intArray[i]);
         }
 
+        // Find the index of value `7`
+        int index = -1;
+        for (int i = 0; i < intArray.length; i++) {
+            if (intArray[i] == 7) {
+                index = i;
+                break;
+            }
+        }
+
+        System.out.println("index = " + index);
+
     }
 
 }
